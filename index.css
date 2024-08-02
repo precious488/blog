@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 200px;
+    background-color:silver;
+}
+button a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+
+}
+button{
+    background-color: red;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+
+}
+button:hover{
+    background-color: blue;
+}
+h1{
+    text-transform: uppercase;
+}

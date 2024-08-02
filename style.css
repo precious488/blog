@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color:whitesmoke;
+    width: 50%;
+    margin-left: 25%;
+    height: 100%;
+    border-radius: 10px;
+
+}
+h1{
+    color: red;
+}
+#content{
+    height: 200px;
+    width: 200;
+}
+p{
+    font-weight: bold;
+    font-size: 3rem;
+    color: red;
+
+}
+.button{
+    background-color: red;
+    border: none;
+    height: 30px;
+    width: 30;
+    font-weight: bold;
+
+}
